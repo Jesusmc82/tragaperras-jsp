@@ -12,6 +12,11 @@ and open the template in the editor.
     justify-content: center;
 }
 
+.imagenes{ 
+    display: flex;
+    justify-content: space-between;
+}
+
 .cabecera{
     
     color: white;

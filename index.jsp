@@ -10,7 +10,7 @@
         <div class="contenedor">
             <h1 class="cabecera"><u> TRAGAPERRAS</u></h1>
     </div>
-        <div class="contenedor">
+        <div class="imagenes">
         <%
 
             int numeroFigura = 0;
