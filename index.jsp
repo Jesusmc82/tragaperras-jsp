@@ -69,7 +69,7 @@
         %>
         </div>
         <div class="contenedor">
-        <a href="javascript:document.location.reload();"><p align-text="center"><input name="boton" type="submit" value="Nueva Tirada"></p></a>
+            <a href="javascript:document.location.reload();"><p align-text="center"><button> Nueva Tirada</button></p></a>
         </div>
     </body>
 </html>
